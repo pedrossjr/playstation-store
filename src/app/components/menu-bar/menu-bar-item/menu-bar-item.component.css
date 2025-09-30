@@ -1,0 +1,32 @@
+.menu-bar__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80vw;
+  align-items: center;
+  margin-top: 3px;
+}
+
+.menu-bar__item>ul {
+  display: flex;
+  list-style-type: none;
+ }
+
+.menu-bar__item>ul>li {
+  padding: 5px;
+  margin-right: 15px;
+}
+
+.menu-bar__item>ul>li>a {
+  text-decoration: none;
+  padding: 5px;
+  color: rgb(191, 191, 202);
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu-bar__item>ul>li>a:hover {
+  color: rgb(160, 160, 168);
+  font-weight: bold;
+ }
