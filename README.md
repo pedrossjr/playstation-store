@@ -5,8 +5,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-Este projeto é uma recriação da **PlayStation Store**, desenvolvido em **Angular**, com foco em design responsivo, navegação fluida e experiência do usuário semelhante à loja oficial da Sony.  
-O objetivo principal é **praticar conceitos de frontend moderno** e **construir uma base sólida para integração com APIs** no futuro.
+Este projeto faz parte do desafio do curso Angular Developer da [DIO](https://www.dio.me/) onde recriamos uma interface semelhante da **PlayStation Store**, desenvolvido em **Angular**, com foco em design responsivo, navegação fluida e experiência do usuário semelhante à loja oficial da Sony.  
+O objetivo principal é **praticar conceitos de frontend moderno para construir uma base sólida de conhecimento em Angular** para futuros projetos.
 
 ---
 
