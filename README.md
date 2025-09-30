@@ -1,28 +1,102 @@
-# PsmStore
+# 🎮 PlayStation Store Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
+![Angular](https://img.shields.io/badge/Angular-18-red?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-## Development server
+Este projeto é uma recriação da **PlayStation Store**, desenvolvido em **Angular**, com foco em design responsivo, navegação fluida e experiência do usuário semelhante à loja oficial da Sony.  
+O objetivo principal é **praticar conceitos de frontend moderno** e **construir uma base sólida para integração com APIs** no futuro.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🛠️ Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular CLI** — versão 18.0.2
+- **TypeScript**
+- **HTML5 / CSS3**
+- **RxJS**
+- **Node.js & npm** (para ambiente de execução e dependências)
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📂 Estrutura do Projeto
 
-## Running unit tests
+```
+/
+├── src/
+│   ├── app/           # Código principal da aplicação
+│   ├── assets/        # Imagens e recursos estáticos
+│   └── environments/  # Configurações de ambiente
+├── .vscode/           # Configurações do VS Code
+├── angular.json       # Configuração Angular
+├── package.json       # Dependências e scripts
+├── tsconfig.json      # Configuração TypeScript
+└── README.md
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## ▶️ Como Executar o Projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### 1. Clonar o repositório
 
-## Further help
+```bash
+git clone https://github.com/pedrossjr/playstation-store.git
+cd playstation-store
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-"# playstation-store" 
+### 2. Instalar dependências
+
+```bash
+npm install
+```
+
+### 3. Rodar servidor de desenvolvimento
+
+```bash
+ng serve
+```
+
+Acesse em: **[http://localhost:4200/](http://localhost:4200/)**  
+A aplicação será recarregada automaticamente a cada alteração no código.
+
+### 4. Build para produção
+
+```bash
+ng build
+```
+
+Os arquivos serão gerados em `/dist`.
+
+---
+
+## ✅ Testes
+
+- **Testes unitários**
+
+```bash
+ng test
+```
+
+- **Testes end-to-end**
+
+```bash
+ng e2e
+```
+
+---
+
+## 🎯 Funcionalidades
+
+- Layout inspirado na **PlayStation Store oficial**
+- Listagem de jogos e produtos digitais
+- Página de detalhes de produto
+- Design responsivo (desktop e mobile)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Pedro Silva**  
+🔗 [GitHub](https://github.com/pedrossjr)
