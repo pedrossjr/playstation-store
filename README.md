@@ -99,4 +99,5 @@ ng e2e
 ## 👨‍💻 Autor
 
 Desenvolvido por **Pedro Silva**  
-🔗 [GitHub](https://github.com/pedrossjr)
+🔗 [GitHub](https://github.com/pedrossjr)  
+🔗 [Linkedin](https://www.linkedin.com/in/pedrosouzasjr/)
