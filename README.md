@@ -8,6 +8,8 @@
 Este projeto faz parte do desafio do curso Angular Developer da [DIO](https://www.dio.me/) onde recriamos uma interface semelhante da **PlayStation Store**, desenvolvido em **Angular**, com foco em design responsivo, navegação fluida e experiência do usuário semelhante à loja oficial da Sony.  
 O objetivo principal é **praticar conceitos de frontend moderno para construir uma base sólida de conhecimento em Angular** para futuros projetos.
 
+![Home](https://raw.githubusercontent.com/pedrossjr/angular-playstation-store/main/public/page.png)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
