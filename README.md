@@ -1,11 +1,6 @@
 # 🎮 PlayStation Store Clone
 
-![Angular](https://img.shields.io/badge/Angular-18-red?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-
-Este projeto faz parte do desafio do curso Angular Developer da [DIO](https://www.dio.me/) onde recriamos uma interface semelhante da **PlayStation Store**, desenvolvido em **Angular**, com foco em design responsivo, navegação fluida e experiência do usuário semelhante à loja oficial da Sony.  
+Este projeto faz parte do desafio do curso Formação Angular Developer da [DIO](https://www.dio.me/) onde recriamos uma interface semelhante da **PlayStation Store**, desenvolvido em **Angular**, com foco em design responsivo, navegação fluida e experiência do usuário semelhante à loja oficial da Sony.  
 O objetivo principal é **praticar conceitos de frontend moderno para construir uma base sólida de conhecimento em Angular** para futuros projetos.
 
 ![Home](https://raw.githubusercontent.com/pedrossjr/angular-playstation-store/main/public/page.png)
